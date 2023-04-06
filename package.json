@@ -1,0 +1,15 @@
+{
+  "name": "crafting",
+  "version": "1.0.0",
+  "description": "m1 assessment prep",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kaya Gordon",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
