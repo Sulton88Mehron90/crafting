@@ -1,4 +1,4 @@
-# Crafting
+# Crafting - M1 FE Assessment Prep
 
 ## How to Run The Tests
 
