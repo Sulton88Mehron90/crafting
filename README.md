@@ -1,4 +1,4 @@
-# Crafting
+# Crafting - M1 FE Assessment Prep
 
 ## Set Up
 - `git clone git@github.com:turingschool-examples/crafting.git`
