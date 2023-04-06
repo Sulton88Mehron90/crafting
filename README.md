@@ -1,9 +1,7 @@
 # Crafting
 
-## How to Run The Tests
-
-Run the test command:
-
-```
-npm test crafts-test.js
-```
+## Set Up
+- `git clone git@github.com:turingschool-examples/crafting.git`
+- `cd crafting`
+- `npm i`
+- `npm test crafts-test.js`
